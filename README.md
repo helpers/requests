@@ -1,6 +1,4 @@
-# Helper requests
-
-## Requesting helpers
+# Request a helper
 
 ### 1. Search existing helpers
 
@@ -12,8 +10,11 @@
 
 If you don't find what you need, please [create a request](https://github.com/helpers/requests/issues).
 
+***
 
-## Contributing helpers
+<br>
+
+# Contribute a helper
 
 To contribute a helper to the [github.com/helpers][helpers] org, follow these steps:
 
